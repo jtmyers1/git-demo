@@ -1,3 +1,0 @@
-#Authors
-
--James Myers
